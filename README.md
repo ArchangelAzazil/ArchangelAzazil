@@ -2,6 +2,8 @@
 
 ### 🛡️ NOC Engineer | Network Security | Python Developer
 
+> **Note:** Most of my core production work is hosted in private repositories to protect proprietary infrastructure logic. Feel free to reach out for a technical deep-dive into my automation and networking projects!
+
 I am a **Systems & Network Operations Engineer** with 10+ years of experience. I specialize in deep-packet diagnostics, Linux kernel auditing, and building automation tools to solve complex infrastructure challenges.
 
 - 🔭 **Currently working on:** Advanced SOCKS5/VPN proxy reliability and throughput auditing.
@@ -21,10 +23,10 @@ I am a **Systems & Network Operations Engineer** with 10+ years of experience. I
 
 ---
 
-### 🚀 Highlighted Projects
-* **Proxy-Health-Reliability:**(internal) A high-concurrency Python tool for real-time proxy auditing.
-* **NBA Stats Generator:** (internal) Automated data extraction engine using static proxy rotation.
-* **Telegram-Proxy-Bot:** (internal) Built an automated notification system for infrastructure heartbeat monitoring.
+### 🚀 Highlighted Projects (Private Repos)
+* **Proxy-Health-Reliability:** A high-concurrency Python tool for real-time proxy auditing.
+* **NBA Stats Generator:** Automated data extraction engine using static proxy rotation.
+* **Telegram-Proxy-Bot:** Real-time infrastructure health alerts and account monitoring.
 
 ---
 
@@ -34,4 +36,4 @@ I am a **Systems & Network Operations Engineer** with 10+ years of experience. I
 ---
 
 ### 📫 Connect with me:
-[LinkedIn][https://www.linkedin.com/in/anthony-abella-41b3101b0/] | [Portfolio/Email](mailto:anthony_abella@outlook.com)
+[LinkedIn](https://www.linkedin.com/in/anthony-abella-41b3101b0/) | [Portfolio/Email](mailto:anthony_abella@outlook.com)
