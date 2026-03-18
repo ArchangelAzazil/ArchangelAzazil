@@ -22,9 +22,9 @@ I am a **Systems & Network Operations Engineer** with 10+ years of experience. I
 ---
 
 ### 🚀 Highlighted Projects
-* **Proxy-Health-Reliability:** A high-concurrency Python tool for real-time proxy auditing.
-* **NBA Stats Generator:** Automated data extraction engine using static proxy rotation.
-* **Telegram-NOC-Bot:** Real-time infrastructure health alerts and account monitoring.
+* **Proxy-Health-Reliability:**(internal) A high-concurrency Python tool for real-time proxy auditing.
+* **NBA Stats Generator:** (internal) Automated data extraction engine using static proxy rotation.
+* **Telegram-Proxy-Bot:** (internal) Built an automated notification system for infrastructure heartbeat monitoring.
 
 ---
 
