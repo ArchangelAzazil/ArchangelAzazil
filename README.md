@@ -37,3 +37,11 @@ I am a **Systems & Network Operations Engineer** with 10+ years of experience. I
 
 ### 📫 Connect with me:
 [LinkedIn](https://www.linkedin.com/in/anthony-abella-41b3101b0/) | [Portfolio/Email](mailto:anthony_abella@outlook.com)
+
+---
+<div align="center">
+
+### 🛡️ Visitor Insights
+![Visitors](https://api.visitorbadge.io/api/visitors?path=ArchangelAzazil-proxy-guide&label=TOTAL%20VISITS&labelColor=%23000000&countColor=%23263238&style=flat)
+
+</div>
