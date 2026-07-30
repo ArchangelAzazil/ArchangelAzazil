@@ -23,6 +23,15 @@ I am a **Systems & Network Operations Engineer** with 10+ years of experience. I
 
 ---
 
+### 📜 Certifications
+[#-certifications](#-certifications)
+
+![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA%2B%20(CS0--003)-red?style=flat-square&logo=comptia&logoColor=white)
+
+- **CompTIA CySA+ (CS0-003)** — Cybersecurity Analyst, 2026
+
+---
+
 ### 🚀 Highlighted Projects (Private Repos)
 * **Proxy-Health-Reliability:** A high-concurrency Python tool for real-time proxy auditing.
 * **NBA Stats Generator:** Automated data extraction engine using static proxy rotation.
