@@ -2,6 +2,8 @@
 
 ### 🛡️ NOC Engineer | Network Security | Python Developer
 
+![Visitors](https://komarev.com/ghpvc/?username=ArchangelAzazil&color=8B0000&style=flat-square&label=Profile+Views)
+
 > **Note:** Most of my core production work is hosted in private repositories to protect proprietary infrastructure logic. Feel free to reach out for a technical deep-dive into my automation and networking projects!
 
 I am a **Systems & Network Operations Engineer** with 10+ years of experience. I specialize in deep-packet diagnostics, Linux kernel auditing, and building automation tools to solve complex infrastructure challenges.
@@ -51,6 +53,7 @@ I am a **Systems & Network Operations Engineer** with 10+ years of experience. I
 <div align="center">
 
 ### 🛡️ Visitor Insights
-![Visitors](https://api.visitorbadge.io/api/visitors?path=ArchangelAzazil-proxy-guide&label=TOTAL%20VISITS&labelColor=%23000000&countColor=%23263238&style=flat)
+
+![Visitors](https://komarev.com/ghpvc/?username=ArchangelAzazil&label=Total+Visits&color=8B0000&style=flat-square&labelColor=0d0d0d)
 
 </div>
